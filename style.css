@@ -63,16 +63,16 @@ section {
 .email {
   background-color: #868e96;
   height: 96px;
+  cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
 }
 .email:hover {
-  color:#fff;
-  text-decoration:underline;
+  color: #fff;
+  text-decoration: underline;
   transform: scale(1.05);
-  
 }
 aside {
   background: #e9ecef;
