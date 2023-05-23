@@ -70,8 +70,8 @@ section {
 }
 .email:hover {
   transform: scale(1.05);
-  color:white;
-  text-decoration:under-line
+  color:#fff;
+  text-decoration:underline
 }
 aside {
   background: #e9ecef;
